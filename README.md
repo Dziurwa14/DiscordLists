@@ -88,13 +88,13 @@ Guild Features | Description
 `GUILD_ONBOARDING_EVER_ENABLED` | Guild has ever enabled onboarding
 `GUILD_ONBOARDING_HAS_PROMPTS` |
 `GUILD_PRODUCTS` | Given to guilds previously in the `2023-04_server_products` experiment overrides
+`GUILD_PRODUCTS_ALLOW_ARCHIVED_FILE` |
 `GUILD_ROLE_SUBSCRIPTIONS` | Given to guilds previously in the `2021-06_guild_role_subscriptions` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_PURCHASE_FEEDBACK_LOOP` | Given to guilds previously in the `2022-05_mobile_web_role_subscription_purchase_page` experiment overrides
 `GUILD_ROLE_SUBSCRIPTION_TIER_TEMPLATE` |
 `GUILD_ROLE_SUBSCRIPTION_TRIALS` | Given to guilds previously in the `2022-01_guild_role_subscription_trials` experiment overrides
 `GUILD_SERVER_GUIDE` | Guild has enabled [server guide](https://support.discord.com/hc/en-us/articles/13497665141655)
 `GUILD_WEB_PAGE_VANITY_URL` |
-`GUILD_PRODUCTS_ALLOW_ARCHIVED_FILE` |
 `HAD_EARLY_ACTIVITIES_ACCESS` | Server previously had access to voice channel activities and can bypass the boost level requirement
 `HAS_DIRECTORY_ENTRY` | Guild is in a directory channel.
 `HIDE_FROM_EXPERIMENT_UI` | 
